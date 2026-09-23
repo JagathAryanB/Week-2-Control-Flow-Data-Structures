@@ -1,12 +1,8 @@
-"""Student Grade Calculator - Week 2 project.
+"""Student Grade Calculator.
 
-This program applies the control-flow and data-structure concepts from the task:
-- if/elif/else grading logic
-- lists for storing names, marks, and results
-- for loops for processing students
-- while loops for validating input
-- try/except for input errors
-- class statistics summary
+This program follows the Week 2 task requirements by using control flow,
+list-based data storage, validation loops, and simple statistics for student
+performance tracking.
 """
 
 from typing import List, Dict, Tuple
